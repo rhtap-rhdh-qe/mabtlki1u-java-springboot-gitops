@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mabtlki1u-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mabtlki1u-java-springboot
